@@ -248,15 +248,19 @@ margin-right: 0;
 }
 .collection-list-item:nth-child(5) {
   background-image: url("../img/above.jpg");
+  margin-bottom: 0;
 }
 .collection-list-item:nth-child(6) {
   background-image: url("../img/poscet.jpg");
+  margin-bottom: 0;
 }
 .collection-list-item:nth-child(7) {
   background-image: url("../img/vr.jpg");
+  margin-bottom: 0;
 }
 .collection-list-item:nth-child(8) {
   background-image: url("../img/fisheve.jpg");
+  margin-bottom: 0;
 }
 
 
@@ -264,7 +268,7 @@ margin-right: 0;
 .site-footer {
   padding-top: 44px;
   padding-bottom: 44px;
-  margin-top: 154px;
+  margin-top: 184px;
   background-color: var(--primary);
 }
 .site-footer-wrapper {
